@@ -1,0 +1,4 @@
+#!/bin/sh
+exec 2>&1
+exec python3 /data/dbus-json-bms/dbus-json-bms.py
+
