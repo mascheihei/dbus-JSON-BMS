@@ -17,7 +17,7 @@ Login on Raspberry or Cerbo and use the following commands in the terminal
 
 wget https://github.com/mascheihei/dbus-json ... s/main.zip 
 unzip main.zip
-mv /data/dbus-json-bms-main /data/dbus-json-bms <- korrigiert den Namen
+mv /data/dbus-json-bms-main /data/dbus-json-bms
 chmod 755 install.sh
 chmod 755 restart.sh
 chmod 755 uninstall.sh
